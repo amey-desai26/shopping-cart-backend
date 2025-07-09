@@ -44,4 +44,4 @@ The backend will run by default on [http://localhost:3000](http://localhost:3000
 **Tip:**
 
 - Make sure the backend is running before starting the Angular frontend.
-  v
+  
