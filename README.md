@@ -12,7 +12,7 @@ This is the Node.js/Express backend for the E-Shopping application. It provides 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/amey-d2611/e-shopping-backend
+   git clone [https://github.com/amey-d2611/shopping-cart-backend](https://github.com/amey-desai26/shopping-cart-backend)
    cd shopping-cart-backend
    ```
 
