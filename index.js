@@ -12,7 +12,7 @@ const cors = require("cors");
 app.use(express.json());
 app.use(
   cors({
-    origin: ["https://el-shopping.netlify.app"], // Add Netlify domain
+    origin: ["https://elshopping.netlify.app"], // Add Netlify domain
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
